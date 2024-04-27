@@ -28,6 +28,4 @@ Distributed under the GNU General Public License v3.0	GPL-3.0 License. See `LICE
 ## Contact
 Ricardo de Souza - @rdesouzabr - ricardodesouza.br@live.com
 
-Project Link: [https://github.com/yourusername/project-name](https://github.com/ricardodesouza-br/scripts)
-
-Remember to replace the placeholders with your actual information. Happy coding!
+Project Link: [https://github.com/ricardodesouza-br/scripts](https://github.com/ricardodesouza-br/scripts)
